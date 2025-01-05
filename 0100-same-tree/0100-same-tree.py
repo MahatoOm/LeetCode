@@ -36,8 +36,7 @@ class Solution:
             
             return dfs(p.right , q.right) and dfs(p.left , q.left)
             
-            if left and right:
-                return True
+            
 
        
 
