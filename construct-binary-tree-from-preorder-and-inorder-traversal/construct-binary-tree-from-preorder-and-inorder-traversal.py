@@ -12,8 +12,7 @@ class Solution:
             
             if in_left > in_right:
                 return None
-            if not preorder:
-                return
+
             val = preorder.pop(0)
             root = TreeNode(val)
             
