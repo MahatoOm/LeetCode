@@ -12,12 +12,12 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         
         
-        dq = collections.deque([root])
+
         
         
         if not root:
             return root
-        
+        dq = deque([root])
         while dq:
 
             size = len(dq)
@@ -29,10 +29,10 @@ class Solution:
                     
                 if node.right:
                     dq.append(node.right)
-                if i < size-1:
+                
                     
-                    node.next = dq[0]
-                    
+                node.next = dq[0] if i < size-1 else None
+        return root          
         
 #         leftmost = root
 #         if not root:
@@ -70,5 +70,5 @@ class Solution:
 #             if not leftmost.left and leftmost.right:
 #                 leftmost = leftmost.right
             
-        return root
+        
         
