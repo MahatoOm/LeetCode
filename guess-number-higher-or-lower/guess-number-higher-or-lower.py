@@ -15,12 +15,12 @@ class Solution:
             
             mid = (left + right ) // 2
             
-            check = guess(mid)
-            if check == 0:
+            
+            if guess(mid) == 0:
                 return mid
             
-            elif check == 1:
+            elif guess(mid)== 1:
                 left = mid+1
-            elif check == -1:
+            else:
                 right = mid - 1
         
