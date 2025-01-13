@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0020-valid-parentheses) |
+| [0161-one-edit-distance](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0161-one-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0161-one-edit-distance](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0161-one-edit-distance) |
 <!---LeetCode Topics End-->
