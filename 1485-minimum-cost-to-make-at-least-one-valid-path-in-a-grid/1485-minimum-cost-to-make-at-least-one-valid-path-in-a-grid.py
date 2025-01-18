@@ -16,8 +16,8 @@ class Solution:
             if i < 0 or j < 0 or i > m-1 or j > n-1:
                 continue
             if i == m-1 and  j == n-1:
-                output.append(cost)
-                continue
+                return cost
+                
 
             if (i,j)  in visited:
                 continue
@@ -50,5 +50,5 @@ class Solution:
                 heapq.heappush(heap, [cost+1, i, j+1])
 
 
-        return min(output)
+        
 
