@@ -168,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
