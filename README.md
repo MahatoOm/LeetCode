@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 ## Binary Search Tree
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
