@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
