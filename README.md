@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0161-one-edit-distance](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
