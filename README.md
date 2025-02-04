@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0975-range-sum-of-bst](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Interactive
 |  |
 | ------- |
