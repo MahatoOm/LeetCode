@@ -7,27 +7,43 @@
 class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
 
-        def bfs(root, sum_value,low, high):
-            if not root:
-                return 0
-            
-            
-            stack = []
-            stack.append(root)
-            while stack:
-                node = stack.pop()
-                if low <= node.val <= high:
-                    sum_value += node.val
+        #BFS iterative
+        if not root:
+            return 0
+        sum_value = 0
+        dq = collections.deque()
+        dq.append(root)
+        while dq:
+            node = dq.popleft()
+            if low <= node.val <= high:
+                sum_value += node.val
 
-                if node.left:
-                    stack.append(node.left)
-                if node.right:
-                    stack.append(node.right) 
+            if node.left:
+                dq.append(node.left)
+            if node.right:
+                dq.append(node.right) 
 
-            return sum_value
+        return sum_value
 
-        output = bfs(root, 0, low, high)
-        return output
+
+        # Dfs Iterative
+        # if not root:
+        #     return 0
+        
+        # sum_value = 0
+        # stack = []
+        # stack.append(root)
+        # while stack:
+        #     node = stack.pop()
+        #     if low <= node.val <= high:
+        #         sum_value += node.val
+
+        #     if node.left:
+        #         stack.append(node.left)
+        #     if node.right:
+        #         stack.append(node.right) 
+
+        # return sum_value
 
 
 
