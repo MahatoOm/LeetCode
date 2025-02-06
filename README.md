@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
