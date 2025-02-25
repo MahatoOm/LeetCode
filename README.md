@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2145-grid-game) |
 ## String Matching
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
