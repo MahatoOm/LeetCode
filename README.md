@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
