@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1894-merge-strings-alternately](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
