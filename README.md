@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3447-clear-digits) |
 ## Design
