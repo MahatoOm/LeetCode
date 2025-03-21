@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2434-design-a-number-container-system](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
