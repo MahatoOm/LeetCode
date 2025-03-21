@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Matrix
 |  |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Simulation
 |  |
 | ------- |
