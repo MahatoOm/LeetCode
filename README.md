@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
