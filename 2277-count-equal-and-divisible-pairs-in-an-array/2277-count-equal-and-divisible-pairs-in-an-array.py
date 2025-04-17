@@ -1,20 +1,12 @@
 class Solution:
-    def countPairs(self, nums: List[int], k: int) -> int:
-        
-        left = 0
+    def countPairs(self, nums: List[int], k: int) -> int:        
         count_map = defaultdict(list)
         result = 0
-        for right in range(len(nums)):
-
-            val  = nums[right]
-            for idx in count_map[val]:
+        for right in range(len(nums)):           
+            for idx in count_map[nums[right]]:
                 if (idx * right) % k == 0:
                     result += 1
-
-            count_map[val].append(right)
-            
-
-
+            count_map[nums[right]].append(right)
         return result
 
 
