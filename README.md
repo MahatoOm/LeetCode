@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0543-diameter-of-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1396-count-servers-that-communicate](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Topological Sort
