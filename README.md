@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0797-rabbits-in-forest](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
