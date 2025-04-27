@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0543-diameter-of-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0550-shortest-path-to-get-food](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [1396-count-servers-that-communicate](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1396-count-servers-that-communicate) |
