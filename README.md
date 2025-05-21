@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0266-palindrome-permutation](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0311-sparse-matrix-multiplication](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0311-sparse-matrix-multiplication) |
 | [0349-intersection-of-two-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0311-sparse-matrix-multiplication](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0311-sparse-matrix-multiplication) |
 | [0407-trapping-rain-water-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
