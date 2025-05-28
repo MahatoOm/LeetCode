@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1366-first-unique-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1366-first-unique-number) |
 | [1396-count-servers-that-communicate](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1366-first-unique-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1366-first-unique-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1500-count-largest-group) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1366-first-unique-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1366-first-unique-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1903-design-most-recently-used-queue](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1903-design-most-recently-used-queue) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1366-first-unique-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1366-first-unique-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1366-first-unique-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1366-first-unique-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
 |  |
