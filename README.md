@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
@@ -592,8 +593,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
