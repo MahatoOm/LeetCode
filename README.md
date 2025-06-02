@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0768-partition-labels) |
