@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2880-find-the-closest-marked-node](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2880-find-the-closest-marked-node) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Quickselect
 |  |
