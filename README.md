@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
