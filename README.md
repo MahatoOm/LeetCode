@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Geometry
 |  |
