@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1118-divide-array-into-increasing-sequences](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1118-divide-array-into-increasing-sequences](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1160-letter-tile-possibilities](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/1364-tuple-with-same-product) |
