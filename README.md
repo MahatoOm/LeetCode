@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0161-one-edit-distance](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0161-one-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0266-palindrome-permutation](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0266-palindrome-permutation) |
