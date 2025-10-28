@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ommmmmmmmmm/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Queue
 |  |
